@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# WhatsApp session (do NOT commit — contains your login keys)
+whatsapp_bot/auth/
+
+# Node
+whatsapp_bot/node_modules/
+
+# Misc
+*.log
+.DS_Store

@@ -1,0 +1,15 @@
+{
+  "name": "cinesubz-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "CineSubz WhatsApp Bot (Cloudflare bypass, Server 1/2 download link resolver)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
